@@ -3,7 +3,7 @@
 
 ## Objetivo del proyecto
 
-Desarrollar un algorítmo que sea capáz de obtener todos los para cada localidad de la República Argentina, para cada calle, por alturas diferentes y por veredas pares e impares si los hubiera.
+Desarrollar un algorítmo que sea capaz de obtener todos los para cada localidad de la República Argentina, para cada calle, por alturas diferentes y por veredas pares e impares si los hubiera.
 
 
 ## Enfoque adoptado
